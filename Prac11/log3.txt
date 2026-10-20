@@ -1,0 +1,2 @@
+System running normally
+User logged out
